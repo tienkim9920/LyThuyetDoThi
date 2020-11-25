@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\LyThuyetDoThi\Buoi7\BT3\bin\Debug\BT3.exe.config
+C:\Users\Admin\Desktop\LyThuyetDoThi\Buoi7\BT3\bin\Debug\BT3.exe
+C:\Users\Admin\Desktop\LyThuyetDoThi\Buoi7\BT3\bin\Debug\BT3.pdb
+C:\Users\Admin\Desktop\LyThuyetDoThi\Buoi7\BT3\obj\Debug\BT3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LyThuyetDoThi\Buoi7\BT3\obj\Debug\BT3.exe
+C:\Users\Admin\Desktop\LyThuyetDoThi\Buoi7\BT3\obj\Debug\BT3.pdb

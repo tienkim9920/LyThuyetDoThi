@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\LyThuyetDoThi\Buoi6\BT2\bin\Debug\BT2.exe.config
+C:\Users\Admin\Desktop\LyThuyetDoThi\Buoi6\BT2\bin\Debug\BT2.exe
+C:\Users\Admin\Desktop\LyThuyetDoThi\Buoi6\BT2\bin\Debug\BT2.pdb
+C:\Users\Admin\Desktop\LyThuyetDoThi\Buoi6\BT2\obj\Debug\BT2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LyThuyetDoThi\Buoi6\BT2\obj\Debug\BT2.exe
+C:\Users\Admin\Desktop\LyThuyetDoThi\Buoi6\BT2\obj\Debug\BT2.pdb
